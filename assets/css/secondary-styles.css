@@ -7,9 +7,6 @@
 
 .page-title {
     color: #fce138;
-}
-/*When I just do h2 it changes the footer too*/
-.page-title h2 {
     display: inline-block;
     border-bottom: 4px solid; 
     color: #fce138;
