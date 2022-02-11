@@ -15,6 +15,7 @@ body {
   font-family: Helvetic, Arial, sans-serif;
 }
 
+/*Header Styles Start*/
 header {
   padding: 20px 35px;
   background-color: var(--tertiary-color);
@@ -69,7 +70,9 @@ header nav ul li a:hover {
   border-radius: 15px;
   text-shadow: none;
 }
+/*Header Styles End*/
 
+/*Footer Styles Start*/
 footer {
   background: var(--primary-color);
   width: 100%;
@@ -97,6 +100,7 @@ footer a {
 section {
   padding: 60px;
 }
+/*Footer Styles End*/
 
 /* Hero Style Start */
 .hero {

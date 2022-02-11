@@ -1,18 +1,30 @@
-# run-buddy
+  # Run Buddy
+  
+  # Description  
+  An application designed to match users with personal trainers.
 
-## Purpose
+  # Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-A website that offers fitness training services.
+  # Installation
+ 
 
-## Built With
+  # Usage
+  
+ 
+  # Contributing  
+  Molly Rendon.
 
-- HTML
-- CSS
+  # Tests
+  The following commands are needed to run tests: 
+  test
 
-## Website
+  # Questions
+  For any questions please contact mollyrendon at this email molly.rendon@outlook.com.
 
-## Contribution
-
-Made with ❤️ by Molly Rendon
-
-### ©️2019 Run Buddy, Inc
+  https://mollyrendon.github.io/run-buddy/?fbclid=IwAR3nhOIMkGd9Zs7fXF08wfI8DpuFWr5sTDLNw8kUfY3yJoq_VjAo_3PTMvg
