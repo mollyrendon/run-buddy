@@ -27,3 +27,5 @@
   For any questions please contact mollyrendon at this email molly.rendon@outlook.com.
 
   https://mollyrendon.github.io/run-buddy/?fbclid=IwAR3nhOIMkGd9Zs7fXF08wfI8DpuFWr5sTDLNw8kUfY3yJoq_VjAo_3PTMvg
+
+![run buddy screenshot](https://user-images.githubusercontent.com/92175961/153682919-4901320d-50a3-457f-b44d-f1fe897d364a.PNG)
