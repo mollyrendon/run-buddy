@@ -1,7 +1,7 @@
   # Run Buddy
   
   # Description  
-  An application designed to match users with personal trainers.
+  An application designed to match users with personal trainers by filling in their contact information on the main page form.  They can also browse Run Buddy's trainer profiles and contact info.   
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,14 +15,13 @@
  
 
   # Usage
-  
+
  
   # Contributing  
   Molly Rendon.
 
   # Tests
-  The following commands are needed to run tests: 
-  test
+
 
   # Questions
   For any questions please contact mollyrendon at this email molly.rendon@outlook.com.
